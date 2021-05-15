@@ -1,0 +1,3 @@
+[submodule "submodule_test_2"]
+	path = submodule_test_2
+	url = git@github.com:mateusfg7Studies/submodule_test_2.git
